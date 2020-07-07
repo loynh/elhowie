@@ -15,7 +15,7 @@ gem "jekyll", "~> 4.1.1"
 
 # gem "minima", "~> 2.5"
 # gem "jekyll-theme-console"
-remote_theme: ankitsultana/researcher@gem
+remote_theme: ankitsultana/researcher
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
