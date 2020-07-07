@@ -2,7 +2,7 @@
 
 title: Loyn Howie
 url: "elhowie.dev"
-baseurl: "elhowie.dev"
+baseurl: "/personal-web"
 
 markdown: kramdown
 
@@ -21,3 +21,6 @@ nav:
    link: "/personal-web/assets/Eric_L_Howie_II_Resume.pdf"
  - name: "blog"
    link: "/personal-web/blog"
+
+
+remote_theme: ankitsultana/researcher@gem

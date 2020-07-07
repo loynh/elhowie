@@ -1,0 +1,35 @@
+I"<h2 id="whoami">$whoami</h2>
+
+<p><img class="profile-picture" src="assets/selfpic3.jpg" /></p>
+
+<p>Hello! My name is Loyn Howie and I am an undergraduate student studying at UNC Charlotte.</p>
+
+<p>I am currently pursuing my bachelors in computer science with a concentration in software systems, and networks.</p>
+
+<p>This website will hopefully serve as a knowledge base on various info sec/comp sci topics that I come to learn about.</p>
+
+<p>I will share these through numerous blog posts, so be on the lookout!</p>
+
+<h2 id="research-interests-at-the-moment">research interests (at the moment)</h2>
+
+<ul>
+  <li>Web Application Security</li>
+  <li>Malware Analysis / Reverse Engineering</li>
+  <li>Fuzzing</li>
+</ul>
+
+<h2 id="contact-me">contact me</h2>
+
+<ul>
+  <li>
+    <p>email: <a href="mailto:ehowie@uncc.edu">ehowie@uncc.edu</a></p>
+  </li>
+  <li>
+    <p>github: <a href="https://github.com/loynh">loynh</a></p>
+  </li>
+  <li>
+    <p>twitter: <a href="https://twitter.com/tenderlooin">tenderlooin</a></p>
+  </li>
+</ul>
+
+:ET
