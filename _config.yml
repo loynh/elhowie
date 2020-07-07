@@ -1,0 +1,23 @@
+### Main parts
+
+title: Loyn Howie
+url: "elhowie.dev"
+baseurl: "elhowie.dev"
+
+markdown: kramdown
+
+footer: yes
+footer_url: "https://49sd.com"
+footer_text: "check out the 49th security division!"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "about"
+   link: "/personal-web/"
+ - name: "resume"
+   link: "/personal-web/assets/Eric_L_Howie_II_Resume.pdf"
+ - name: "blog"
+   link: "/personal-web/blog"
