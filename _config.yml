@@ -22,5 +22,7 @@ nav:
  - name: "blog"
    link: "/personal-web/blog"
 
-
+plugins: 
+  - jekyll-remote-theme
+  
 remote_theme: ankitsultana/researcher
