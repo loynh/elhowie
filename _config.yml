@@ -25,4 +25,4 @@ nav:
 plugins: 
   - jekyll-remote-theme
   
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
