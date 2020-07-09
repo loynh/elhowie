@@ -2,7 +2,7 @@
 
 title: "Loyn Howie"
 url: "elhowie.dev"
-baseurl: "/personal-web"
+baseurl: "/"
 
 markdown: kramdown
 
@@ -16,11 +16,11 @@ sass:
 
 nav:
  - name: "about"
-   link: "/personal-web/"
+   link: "/"
  - name: "resume"
-   link: "/personal-web/assets/Eric_L_Howie_II_Resume.pdf"
+   link: "/assets/Eric_L_Howie_II_Resume.pdf"
  - name: "blog"
-   link: "/personal-web/blog"
+   link: "/blog"
 
 plugins: 
   - jekyll-remote-theme
