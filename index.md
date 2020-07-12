@@ -29,3 +29,5 @@ I will share these through numerous blog posts, so be on the lookout!
 
 * twitter: [tenderlooin](https://twitter.com/tenderlooin)
 
+* linkedin: [Loyn Howie](https://www.linkedin.com/in/loyn-howie-92b479192/)
+
