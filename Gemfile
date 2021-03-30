@@ -24,7 +24,7 @@ source "https://rubygems.org"
  gem "github-pages", group: :jekyll_plugins
 
  # updating kramdown due to security issues
- gem "kramdown", ">= 2.3.0"
+ gem "kramdown", ">= 2.3.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
